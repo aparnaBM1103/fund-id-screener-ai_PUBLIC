@@ -15,6 +15,7 @@ An AI-powered application that automates the extraction and analysis of fund man
 
 #### 1. 🔐 Google Authentication
 **This is the first and most important step!**
+A 10-second Loom video of this process is here: https://www.loom.com/share/6f3812bc220d4b78a3d681b2482c0d6f?sid=e6568a76-13fa-46cb-ae69-ea03306bbd72
 
 1. **Access the App**: Open the Fund ID Screener.ai application in your web browser
 2. **Authentication Required**: You'll see a "Google Authentication Required" message
