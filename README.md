@@ -10,12 +10,16 @@ An AI-powered application that automates the extraction and analysis of fund man
 - Client documents uploaded onto Humata.ai in the following manner:
     - Overall folder (named after client) that contains all documents
     - A sub-folder within this overall folder that contains ONLY impact reports
+ 
+A 3-step video process has been setup for your viewing here: 
+- Step 1: Authentication [https://www.loom.com/share/6f3812bc220d4b78a3d681b2482c0d6f?sid=e6568a76-13fa-46cb-ae69-ea03306bbd72]
+- Step 2: Entering details into the Screener tool and clicking "Run Fund ID Extraction" [https://www.loom.com/share/9802a74d8b3140d9bfe2737331b9ad71?sid=270b8413-d0a5-478d-966b-d940c645d0aa]
+- Step 3: Completed analysis []
 
 ### Step-by-Step Instructions
 
 #### 1. 🔐 Google Authentication
-**This is the first and most important step!**
-A 10-second Loom video of this process is here: https://www.loom.com/share/6f3812bc220d4b78a3d681b2482c0d6f?sid=e6568a76-13fa-46cb-ae69-ea03306bbd72
+**This is the first and most important step - watch the Loom vide for Step 1 above!**
 
 1. **Access the App**: Open the Fund ID Screener.ai application in your web browser
 2. **Authentication Required**: You'll see a "Google Authentication Required" message
