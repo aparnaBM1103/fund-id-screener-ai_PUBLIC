@@ -148,11 +148,14 @@ When processing completes, you'll see:
 - Ensure your documents are properly uploaded to Humata
 - Verify that the Fund ID templates exist in your Humata workspace
 
+**Q: After authentication + clicking 'Run Fund ID Extraction' , I get an error: "JWT Token has expired"**
+- This means the API authorization key has expired. This happens once per day and is unfortunately something Aparna will have to update manually every day. Please reach out to her and she can update it (quick fix but will have to be done manually).
+
 ### Google Sheets Issues
 **Q: I can't find my generated sheet**
 - Check your Google Drive root folder first
 - If you specified a folder, check that specific folder
-- Look for files named: `[Client Name] - Fund ID Analysis - [Date]`
+- Look for files beginning with: `Automated Rating Template_[Client Name] - 2025MMDD_`
 
 **Q: The sheet is created but empty**
 - This usually means there was an issue with some of the APIs - reach out to Aparna to refresh APi credentials (this is a quick fix but she will have to do it directly)
