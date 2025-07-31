@@ -17,7 +17,8 @@ A **3-step video process** has been set up for your viewing here:
 - ***Step 2:*** Entering details into the Screener tool and clicking "Run Fund ID Extraction" [https://www.loom.com/share/9802a74d8b3140d9bfe2737331b9ad71?sid=270b8413-d0a5-478d-966b-d940c645d0aa]
 - ***Step 3:*** Completed analysis []
 
-### Step-by-Step Instructions
+
+## Step-by-Step Instructions
 
 #### 1. 🔐 Google Authentication
 **This is the first and most important step - watch the Loom vide for Step 1 above!**
