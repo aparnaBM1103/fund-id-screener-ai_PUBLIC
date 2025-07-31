@@ -46,8 +46,9 @@ Once authenticated, you'll see the main configuration panel in the sidebar:
 - **Client Name**: The name of the fund/client being analyzed (e.g., "Greenacre Ventures")
 
 ##### Optional Fields:
-- **Google Drive Folder URL**: Where you want the results saved (if left empty, saves to your Drive root)
+- **Google Drive Folder URL**: Where you want the results saved (if left empty, saves to your Drive root).
   - Format: `https://drive.google.com/drive/folders/your-folder-id`
+  - Even while testing, please try to create your specific sub-folder (for your test client) within this folder: https://drive.google.com/drive/u/0/folders/1iq7oL9_Q8Le4c1G5zWJmYL4ceroyN0EL. This is just to make sure we store everything in one place. 
 
 ##### Template Configuration:
 The app comes pre-configured with the latest Fund ID templates. Please reach out to Aparna for any modifications:
