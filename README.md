@@ -11,10 +11,10 @@ An AI-powered application that automates the extraction and analysis of fund man
     - Overall folder (named after client) that contains all documents
     - A sub-folder within this overall folder that contains ONLY impact reports
  
-A 3-step video process has been setup for your viewing here: 
-- Step 1: Authentication [https://www.loom.com/share/6f3812bc220d4b78a3d681b2482c0d6f?sid=e6568a76-13fa-46cb-ae69-ea03306bbd72]
-- Step 2: Entering details into the Screener tool and clicking "Run Fund ID Extraction" [https://www.loom.com/share/9802a74d8b3140d9bfe2737331b9ad71?sid=270b8413-d0a5-478d-966b-d940c645d0aa]
-- Step 3: Completed analysis []
+A **3-step video process** has been set up for your viewing here: 
+- ***Step 1:*** Authentication [https://www.loom.com/share/6f3812bc220d4b78a3d681b2482c0d6f?sid=e6568a76-13fa-46cb-ae69-ea03306bbd72]
+- ***Step 2:*** Entering details into the Screener tool and clicking "Run Fund ID Extraction" [https://www.loom.com/share/9802a74d8b3140d9bfe2737331b9ad71?sid=270b8413-d0a5-478d-966b-d940c645d0aa]
+- ***Step 3:*** Completed analysis []
 
 ### Step-by-Step Instructions
 
